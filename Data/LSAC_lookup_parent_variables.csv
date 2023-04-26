@@ -1,0 +1,15 @@
+AGE,wave_prefix,WAVE,COHORT,Age_P1,Age_P2,ATSI_status_P1,ATSI_status_P2,Country_of_birth_P1,Country_of_birth_P2,Sex_P1,Sex_P2,LOTE_P1,LOTE_P2,Reason_stopped_living_with_SC_P1,Reason_stopped_living_with_SC_P2
+0,a,1,B,af03m2,af03m3,zf12m2,zf12m3,zf09m2,zf09m3,zf02m2,zf02m3,af11m2,af11m3,NA,NA
+4,c,1,K,cf03m2,cf03m3,zf12m2,zf12m3,zf09m2,zf09m3,zf02m2,zf02m3,cf11m2,cf11m3,NA,NA
+2,b,2,B,bf03bp1,bf03bp2,zf12bp1,zf12bp2,zf09bp1,zf09bp2,zf02bp1,zf02bp2,bf11bp1,bf11bp2,bf15m2,bf15m3
+6,d,2,K,df03dp1,df03dp2,zf12dp1,zf12dp2,zf09dp1,zf09dp2,zf02dp1,zf02dp2,df11dp1,df11dp2,df15m2,df15m3
+4,c,3,B,cf03cp1,cf03cp2,zf12cp1,zf12cp2,zf09cp1,zf09cp2,zf02cp1,zf02cp2,cf11cp1,cf11cp2,cf15bp1,cf15bp2
+8,e,3,K,ef03ep1,ef03ep2,zf12ep1,zf12ep2,zf09ep1,zf09ep2,zf02ep1,zf02ep2,ef11ep1,ef11ep2,ef15dp1,ef15dp2
+6,d,4,B,df03dp1,df03dp2,zf12dp1,zf12dp2,zf09dp1,zf09dp2,zf02dp1,zf02dp2,df11dp1,df11dp2,df15cp1,df15cp2
+10,f,4,K,ff03fp1,ff03fp2,zf12fp1,zf12fp2,zf09fp1,zf09fp2,zf02fp1,zf02fp2,ff11fp1,ff11fp2,ff15ep1,ff15ep2
+8,e,5,B,ef03ep1,ef03ep2,zf12ep1,zf12ep2,zf09ep1,zf09ep2,zf02ep1,zf02ep2,ef11ep1,ef11ep2,ef15ep1,ef15ep2
+12,g,5,K,gf03gp1,gf03gp2,zf12gp1,zf12gp2,zf09gp1,zf09gp2,zf02gp1,zf02gp2,gf11gp1,gf11gp2,gf15gp1,gf15gp2
+10,f,6,B,ff03fp1,ff03fp2,zf12fp1,zf12fp2,zf09fp1,zf09fp2,zf02fp1,zf02fp2,ff11fp1,ff11fp2,ff15fp1,ff15fp2
+14,h,6,K,hf03hp1,hf03hp2,zf12hp1,zf12hp2,zf09hp1,zf09hp2,zf02hp1,zf02hp2,hf11hp1,hf11hp2,hf15hp1,hf15hp2
+12,g,7,B,gf03gp1,gf03gp2,zf12gp1,zf12gp2,zf09gp1,zf09gp2,zf02gp1,zf02gp2,gf11gp1,gf11gp2,gf15gp1,gf15gp2
+16,i,7,K,if03ip1,if03ip2,zf12ip1,zf12ip2,zf09ip1,zf09ip2,zf02ip1,zf02ip2,if11ip1,if11ip2,if15ip1,if15ip2

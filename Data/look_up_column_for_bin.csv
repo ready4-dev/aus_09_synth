@@ -1,0 +1,9 @@
+str_length,col_name
+4,age
+9,age_sex
+14,age_sex_sos
+19,age_sex_sos_par
+24,age_sex_sos_par_sib
+29,age_sex_sos_par_sib_ses
+34,age_sex_sos_par_sib_ses_CALD
+39,age_sex_sos_par_sib_ses_CALD_ATSI
